@@ -54,7 +54,7 @@
   },
   "license": "UNLICENSED",
   "name": "@piber/sandbox-cli",
-  "private": true,
+  "private": false,
   "publishConfig": {
     "access": "public"
   },
@@ -72,5 +72,5 @@
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "test:watch": "jest --watch"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }

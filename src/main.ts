@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // src/main.ts
 import { CommandFactory } from 'nest-commander';
 import { CommandAppModule } from './command/command.module';
